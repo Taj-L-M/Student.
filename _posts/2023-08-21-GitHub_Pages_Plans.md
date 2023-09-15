@@ -25,3 +25,9 @@ Learning outcome. Building a personal and running GitHub Pages.
 - Slack Account, install the App on Laptop and/or phone, get used to reading announcements. Slack is the tool that we will use for messaging, we have been averaging 1000s of essages each year.
 - VSCode is the code editor we will be using in this class.  VSCode is more than and editor, this type of tool is often called an Interactive Development Environment (IDE). 
 - Run make commands to build and test blog locally, before pushing changes to GitHub pages.
+
+## Week 1 Summary
+Tuesday Introduction and set up got to the part where you create a repository
+Wed faced some problems while createing a file downloding hombrew and ruby jupyter and python
+Thursday Still worked on the problem and still sturggled to find the prblem I had made whilst making the repository This would be the same outcome on friday
+
