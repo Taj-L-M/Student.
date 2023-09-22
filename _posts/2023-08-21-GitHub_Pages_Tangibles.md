@@ -25,12 +25,12 @@ Currently finisehd the blog
 - Discuss GitHub Account, show ability to push/pull changes from VSCode.
 - Discuss development on Themes, show how you plan to organized lab notebook.
 
-Installed All tools
-Made an Git hub acount and repository 
-Linked repository with Vscode
-Made a blog changed the theme etc.
-Custimized a calculator 
-Made a pong game 
-Learned how to troubleshoot
-Learned how to use chat gpt for CSP
-Wrote daily plans
+- Installed All tools
+- Made an Git hub acount and repository 
+- Linked repository with Vscode
+- Made a blog changed the theme etc.
+- Custimized a calculator 
+- Made a pong game 
+- Learned how to troubleshoot
+- Learned how to use chat gpt for CSP
+- Wrote daily plans

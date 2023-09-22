@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## about me
+## About me
 Hello there! My name is Taj Masum i'm a 16-year-old basketball enthusiast hailing from the beautiful country of Bangladesh. Today, I invite you to take a closer look at who I am, what I enjoy, and what makes me, well, me.
 
 ## Basketball Lover 
