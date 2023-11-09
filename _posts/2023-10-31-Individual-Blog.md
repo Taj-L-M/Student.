@@ -35,4 +35,4 @@ The climax of the trimester arrived with our passion project—Geoestimater, a c
 The night of the museum showcased the culmination of everyone's hard work. Our project stood proudly among others, a testament to our collaborative efforts and dedication.
 
 ### Wrapping Up
-CUrretnly finishing the final quiz on college board
+Curretnly finishing the final quiz on college board
