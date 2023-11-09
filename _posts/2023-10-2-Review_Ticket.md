@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: True
+comments: False
 layout: post
 title: Review Ticket
 description: Review Ticket
